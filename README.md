@@ -1,4 +1,5 @@
-https://github.com/cloudflare/next-on-pages/issues/42
+https://github.com/cloudflare/next-on-pages/issues/32
+https://github.com/cloudflare/next-on-pages/pull/51
 
 Running the application normally works:
 
